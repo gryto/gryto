@@ -1,4 +1,4 @@
-### Hi I'm SOlihah Nur Fajriani 👋
+### Hi I'm Solihah Nur Fajriani 👋
 
 
 Here are some ideas to get you started:
