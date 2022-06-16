@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Top up voucher game
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning cloud
 - 👯 I’m looking to collaborate on some project
 - 🤔 I’m looking for help with three.js
 - 💬 Ask me about illustration stuff and photoshop
