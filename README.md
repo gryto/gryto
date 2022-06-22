@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to do illustration
 
 <div>
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/gryto/gryto/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
