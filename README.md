@@ -10,5 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to do illustration
 
-https://github-readme-stats.vercel.app/api?username=gryto&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gryto&theme=radical)
+
+
 
