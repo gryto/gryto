@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gryto&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gryto)](https://github.com/gryto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gryto&layout=compact)](https://github.com/gryto/github-readme-stats)
 
 
 
